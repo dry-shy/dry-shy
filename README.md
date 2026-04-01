@@ -1,7 +1,6 @@
-## 💫 Hey👋,I'm Diwakar
 
 ## 💬 About Me:
-
+ 💫 Hey👋,I'm Diwakar     
 💻 Full Stack Web Developer | Passionate about building impactful digital experiences  
 🚀 Always exploring new opportunities and collaborations  
 🧠 Thriving on challenging projects that push boundaries  
