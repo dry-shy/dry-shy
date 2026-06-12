@@ -1,10 +1,11 @@
 
 ## 💬 About Me:
  💫 Hey👋,I'm Diwakar     
-💻 Full Stack Web Developer | Passionate about building impactful digital experiences  
-🚀 Always exploring new opportunities and collaborations  
-🧠 Thriving on challenging projects that push boundaries  
-🌐 Excited to connect with innovative and like-minded professionals 
+💻 Full Stack Developer (MERN) 
+🚀 Passionate about building impactful digital experiences
+☕ Java Programmer
+☕ Strong in Java, OOPs, DSA
+🚀 Always exploring new opportunities and collaborations 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diwakar-yadav) 
