@@ -1,7 +1,7 @@
 
 ## 💬 About Me:
  💫 Hey👋,I'm Diwakar     
-💻 Full Stack Developer (MERN) 
+💻 Full Stack Developer (MERN)
 🚀 Passionate about building impactful digital experiences
 ☕ Java Programmer
 ☕ Strong in Java, OOPs, DSA
