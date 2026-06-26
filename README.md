@@ -5,7 +5,8 @@
 ☕ Java Programmer               
 ☕ Strong in Java, OOPs, DSA               
 🚀 Always exploring new opportunities and collaborations     
-🚀 Passionate about building impactful digital experiences    
+🚀 Passionate about building impactful digital experiences  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diwakar-yadav) 
