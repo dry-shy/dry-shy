@@ -158,8 +158,8 @@ A full-stack application for managing personal income and expenses.
 <img src="https://img.shields.io/badge/GitHub-dry--shy-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<a href="https://leetcode.com/u/diw740leetcode/">
+  <img src="https://img.shields.io/badge/LeetCode-diw740leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
 </div>
