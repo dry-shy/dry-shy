@@ -119,31 +119,25 @@ A full-stack application for managing personal income and expenses.
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=dry-shy&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dry-shy&theme=tokyo-night&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dry-shy&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dry-shy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dry-shy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+---
 
-</div>
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dry-shy/dry-shy/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
