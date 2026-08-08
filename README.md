@@ -26,11 +26,11 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=dry-shy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dry-shy&theme=dark&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dry-shy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dry-shy&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dry-shy&layout=compact&theme=dark&hide_border=true)
 
 
 
