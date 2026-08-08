@@ -108,16 +108,18 @@ A full-stack application for managing personal income and expenses.
 
 ---
 
-# 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dry-shy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dry-shy&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dry-shy&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dry-shy&theme=tokyonight&hide_border=true" />
@@ -125,7 +127,7 @@ A full-stack application for managing personal income and expenses.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dry-shy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
@@ -133,10 +135,17 @@ A full-stack application for managing personal income and expenses.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dry-shy/dry-shy/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/dry-shy/dry-shy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/dry-shy/dry-shy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake"
+         src="https://raw.githubusercontent.com/dry-shy/dry-shy/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
