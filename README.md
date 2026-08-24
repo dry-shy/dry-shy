@@ -7,7 +7,7 @@ real-world applications, solving DSA problems, and learning modern
 software development technologies.
 
 - 🔭 Currently working on **Full Stack & AI Projects**
-- 🌱 Currently learning **DevOps, Cloud & System Design**
+- 🌱 Currently learning **DevOps**
 - 💻 Strong in **Java, OOPs & DSA**
 - 🚀 Building applications using the **MERN Stack**
 - 🤝 Open to internships, collaborations & opportunities
