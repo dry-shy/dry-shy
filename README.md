@@ -84,6 +84,7 @@ A real-time chat application built using the MERN stack.
 
 - 🔐 Authentication
 - 💬 Real-Time Messaging
+- 💬 Media Sharing
 - 👥 User Management
 - ⚡ Socket.IO
 - 📱 Responsive UI
