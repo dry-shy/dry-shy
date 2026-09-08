@@ -93,19 +93,21 @@ A real-time chat application built using the MERN stack.
 
 ---
 
-## 💰 Personal Finance Tracker
+# 🚀 CareerAI — AI-Powered Career & Interview Assistant
 
-A full-stack application for managing personal income and expenses.
+An AI-powered career assistant that helps students and job seekers with **interview preparation, resume improvement, technical questions, and personalized career guidance**.
 
-### Features
+### ✨ Features
 
-- 💵 Income & Expense Tracking
-- 📊 Financial Dashboard
-- 📈 Expense Analysis
-- 🔐 Authentication
-- 🗄️ MongoDB Storage
+* 🤖 AI Career Assistant
+* 💼 Interview Question Generator
+* 📄 Resume Improvement
+* 🧑‍💻 Technical Interview Preparation
+* 🎯 Personalized Career Guidance
 
-**Tech:** `MongoDB` `Express.js` `React.js` `Node.js`
+### 🛠️ Tech Stack
+
+**React.js • Node.js • Express.js • MongoDB • Gemini AI • REST API • JWT**
 
 ---
 
