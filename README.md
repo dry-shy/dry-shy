@@ -99,11 +99,14 @@ An AI-powered career assistant that helps students and job seekers with **interv
 
 ### ✨ Features
 
-* 🤖 AI Career Assistant
-* 💼 Interview Question Generator
-* 📄 Resume Improvement
-* 🧑‍💻 Technical Interview Preparation
-* 🎯 Personalized Career Guidance
+- 🤖 Ask AI career-related questions
+- 💼 Prepare for technical and HR interviews
+- 🧠 Generate interview questions and answers
+- 📄 Get resume improvement suggestions
+- 💻 Practice programming and technical questions
+- 🎯 Receive personalized career guidance
+- 📊 Track interview preparation progress
+- 🔐 Create an account and manage their profile
 
 ### 🛠️ Tech Stack
 
