@@ -72,7 +72,7 @@ AI-powered healthcare application built with the MERN stack.
 - 🔐 User Authentication
 - 🗄️ MongoDB Database
 
-**Tech:** `MongoDB` `Express.js` `React.js` `Node.js` `Gemini AI`
+**Tech:** `MongoDB` `Express.js` `React.js` `Node.js` `Gorq AI`
 
 ---
 
@@ -110,7 +110,7 @@ An AI-powered career assistant that helps students and job seekers with **interv
 
 ### 🛠️ Tech Stack
 
-**React.js • Node.js • Express.js • MongoDB • Gemini AI • REST API • JWT**
+**React.js • Node.js • Express.js • MongoDB • Gorq AI • REST API • JWT**
 
 ---
 
