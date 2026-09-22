@@ -148,7 +148,7 @@ An AI-powered career assistant that helps students and job seekers with **interv
 
 ---
 
-# 🎯 Current Goals
+# 🎯 Current Goals :
 
 - 🚀 Build production-ready MERN applications
 - 🧠 Improve DSA & problem-solving
