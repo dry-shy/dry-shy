@@ -179,6 +179,7 @@ An AI-powered career assistant that helps students and job seekers with **interv
 
 <div align="center">
 
+
 ### ⭐ Thanks for visiting my profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dry-shy&style=for-the-badge&color=blue)
